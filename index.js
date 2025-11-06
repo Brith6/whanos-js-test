@@ -1,1 +1,1 @@
-console.log("Hello, Whanos from JavaScript!");
+console.log("Hello, Whanos from JavaScript");
